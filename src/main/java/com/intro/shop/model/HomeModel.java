@@ -1,7 +1,5 @@
 package com.intro.shop.model;
 
-import org.hibernate.annotations.ConverterRegistrations;
-
 import jakarta.persistence.*;
 import lombok.*;
 
